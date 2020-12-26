@@ -14,6 +14,6 @@ A thoroughful analysis of this dataset, making use of different Python libraries
 * sklearn
 
 Findings and conclusions from this analyzed are presented in this Github post. The aim of this post is to provide answers to the following questions:
-* 1- Which is the district of Singapore with higher average apartment resale price per square meter?
+* 1- Which is the district of Singapore with the highest average apartment resale price per square meter?
 * 2- Apart from the district, which other features significantly affect the resale price?
 * 3- Which is a reasonable resale price for an apartment in Singapore with specific characteristics?
