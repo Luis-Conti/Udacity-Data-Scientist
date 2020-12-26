@@ -13,7 +13,7 @@ A thoroughful analysis of this dataset, making use of different Python libraries
 * scipy
 * sklearn
 
-Findings and conclusions from this analyzed are presented in this [Medium post](https://luis-conti-gz.medium.com/singapore-apartment-resale-prices-analysis-1105770b3015). The aim of this post is to provide answers to the following questions:
+Findings and conclusions from this analysis are presented in this [Medium post](https://luis-conti-gz.medium.com/singapore-apartment-resale-prices-analysis-1105770b3015). The aim of this publication is to provide answers to the following questions:
 * 1- Which is the district of Singapore with the highest average apartment resale price per square meter?
 * 2- Apart from the district, which other features significantly affect the resale price?
 * 3- Which is a reasonable resale price for an apartment in Singapore with specific characteristics?
