@@ -1,7 +1,7 @@
 # Udacity-Data-Scientist
 This repository was created to host the files I created for the different projects of the Udacity Data Scientist Nanodegree.
 ## 1. Data science blog post
-In this project, the resale price of apartments in the city-state of Singapore was analyzed. The analyzed dataset, in .csv format, is one of the documents available in this repository.
+In this project, the resale price of apartments in the city-state of Singapore was analyzed. The analyzed dataset, in .csv format, is one of the documents available in this repository: [a relative link](SG_prices.csv).
 
 The original data set, along with many others, can be downloaded from the [Singapore Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee). 
 
