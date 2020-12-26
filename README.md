@@ -5,7 +5,7 @@ In this project, the resale price of apartments in the city-state of Singapore w
 
 The original data set, along with many others, can be downloaded from the [Singapore Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee). 
 
-A thoroughful analysis of this dataset, making use of different Python libraries, was performed in the attached Jypiter Notebook that can also be found [here](other_file.md). The following Python libraries were used for this project:
+A thoroughful analysis of this dataset, making use of different Python libraries, was performed in the attached [Jypiter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Singapore%20apartment%20resale%20prices%20analysis.ipynb). The following Python libraries were used for this project:
 * pandas
 * numpy
 * matplotlib
