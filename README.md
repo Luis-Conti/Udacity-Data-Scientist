@@ -3,7 +3,7 @@ This repository was created to host the files I created for the different projec
 ## 1. Data science blog post
 In this project, the resale prices of apartments in the city-state of Singapore were analyzed. The dataset used for this purpose is one of the documents available in this repository and can be found [here](SG_prices.csv).
 
-The original data set, along with many others, can be downloaded from the [Singaporean Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee). 
+The original dataset, along with many others, can be downloaded from the [Singaporean Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee). 
 
 A thoroughful analysis of this dataset, making use of different Python libraries, was performed in the attached [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Singapore%20apartment%20resale%20prices%20analysis.ipynb). The following Python libraries were used for this project:
 * pandas
