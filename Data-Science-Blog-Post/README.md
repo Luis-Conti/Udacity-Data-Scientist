@@ -10,7 +10,7 @@ The purpose of this analysis is to provide answers to the following business que
 ## Attached files
 This repository contains the following files:
 * A copy of the original dataset, named [SG_prices.csv](SG_prices.csv). 
-* A [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Singapore%20apartment%20resale%20prices%20analysis.ipynb), which contains the Python code that was used for this project. The code makes use of the following Python libraries:
+* A [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data-Science-Blog-Post/Singapore%20apartment%20resale%20prices%20analysis.ipynb), which contains the Python code that was used for this project. The code makes use of the following Python libraries: 
   * pandas
   * numpy
   * matplotlib
