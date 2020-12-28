@@ -12,12 +12,12 @@ This repository contains the following files:
 * A copy of the original [dataset](SG_prices.csv), which was renamed in order to make the name shorter. The origina one, along with many other, can be downloaded from the 
 [Singaporean Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee).
 * A [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Singapore%20apartment%20resale%20prices%20analysis.ipynb), which contains the Python code that was used for this project. The code makes use of the following Python libraries:
-* pandas
-* numpy
-* matplotlib
-* seaborn
-* scipy
-* sklearn
+  * pandas
+  * numpy
+  * matplotlib
+  * seaborn
+  * scipy
+  * sklearn
 
 
 
