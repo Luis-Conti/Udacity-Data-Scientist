@@ -9,8 +9,7 @@ The purpose of this analysis is to provide answers to the following business que
 
 ## Attached files
 This repository contains the following files:
-* A copy of the original [dataset](SG_prices.csv), which was renamed in order to make the name shorter. The origina one, along with many other, can be downloaded from the 
-[Singaporean Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee).
+* A copy of the original dataset, named [SG_prices.csv](SG_prices.csv). 
 * A [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Singapore%20apartment%20resale%20prices%20analysis.ipynb), which contains the Python code that was used for this project. The code makes use of the following Python libraries:
   * pandas
   * numpy
@@ -19,10 +18,14 @@ This repository contains the following files:
   * scipy
   * sklearn
 
+## Conclusions
+Findings and conclusions from this analysis are presented in this [Medium post](https://luis-conti-gz.medium.com/singapore-apartment-resale-prices-analysis-1105770b3015). 
+Summarizing:
+* Singapore Central Area has the highest apartment resale prices per square meter.
+* Several features affect the price of the apartment: size, location, floor level, apartment type, apartment model and, to a lesser extent, lease commence date.
+* The multiple lineal model built in Python showed a very good performance and robustness at estimating the resale price of an apartment given some characteristics.
 
-
-Findings and conclusions from this analysis are presented in this [Medium post](https://luis-conti-gz.medium.com/singapore-apartment-resale-prices-analysis-1105770b3015). The aim of this publication is to provide answers to the following questions:
-* 1- Which is the district of Singapore with the highest average apartment resale price per square meter?
-* 2- Apart from the district, which other features significantly affect the resale price?
-* 3- Which is a reasonable resale price for an apartment in Singapore with specific characteristics?
-
+## Licensing, Authors, Acknowledgements
+The origina dataset was downloaded from the [Singaporean Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee).
+This project is part of Data scientist Nanodegree from udacity
+The content of this post is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
