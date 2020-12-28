@@ -9,7 +9,8 @@ The purpose of this analysis is to provide answers to the following business que
 
 ## Attached files
 This repository contains the following files:
-
+* [SG_prices.csv](SG_prices.csv): The analyzed dataset, but renamed in order to make the name shorter. The origina one, along with many other, can be downloaded from the 
+[Singaporean Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee).
 
 ## 1. Data science blog post
 In this project, the resale prices of apartments in the city-state of Singapore were analyzed. The dataset used for this purpose is one of the documents available in this repository and can be found [here](SG_prices.csv).
