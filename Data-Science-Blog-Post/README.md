@@ -23,7 +23,7 @@ Findings and conclusions from this analysis are presented in this [Medium post](
 Summarizing:
 * Singapore Central Area has the highest apartment resale prices per square meter.
 * Several features affect the price of the apartment: size, location, floor level, apartment type, apartment model and, to a lesser extent, lease commence date.
-* The multiple lineal model built in Python showed a very good performance and robustness at estimating the resale price of an apartment given some characteristics.
+* The multiple lineal model built in Python showed a very good performance and robustness at estimating the resale price of an apartment in Singapore given some characteristics.
 
 ## Licensing, Authors, Acknowledgements
 The origina dataset was downloaded from the [Singaporean Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee).
