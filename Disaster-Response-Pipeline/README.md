@@ -20,6 +20,6 @@ Summarizing:
 * The multiple lineal model built in Python showed a very good performance and robustness at estimating the resale price of an apartment in Singapore given some characteristics.
 
 ## Licensing, Authors, Acknowledgements
-* The origina dataset was downloaded from the [Singaporean Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee).
+* Original datasets are provided by [Figure Eight (now Appen)](https://appen.com/figure-eight-is-now-appen/) to [Udacity](https://www.udacity.com).
 * The content of this post is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
 
