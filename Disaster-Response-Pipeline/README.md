@@ -8,9 +8,9 @@ This repository contains the following files:
 * A copy of the original datasets:
   * [disaster_messages.csv](disaster_messages.csv): contains original messages sent during disasters. 
   * [disaster_categories.csv](disaster_categories.csv): contains a classification of the beforehand mentioned messages.
-* A [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data-Science-Blog-Post/Singapore%20apartment%20resale%20prices%20analysis.ipynb), which contains the Python code that was used for this project. The code makes use of the following Python libraries: 
-  * pandas
-  * numpy
+* Two Jupyter Notebooks that were used as a support at creating XXX:
+   * [ETL Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data-Science-Blog-Post/Singapore%20apartment%20resale%20prices%20analysis.ipynb): Used as support for the development of process_data.py.
+   * [ML Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data-Science-Blog-Post/Singapore%20apartment%20resale%20prices%20analysis.ipynb): Used as support for the development of train_classifier.py.
   * matplotlib
   * seaborn
   * scipy
