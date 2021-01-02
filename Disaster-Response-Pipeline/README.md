@@ -5,7 +5,7 @@ The purpose of this project is to build a model for an API that classifies disas
 
 ## Attached files
 This repository contains the following files:
-* A copy of the original datasets:
+* Two datasets, in .csv format, provided by [Figure Eight (now Appen)](https://appen.com/figure-eight-is-now-appen/):
   * [disaster_messages.csv](disaster_messages.csv): contains original messages sent during disasters. 
   * [disaster_categories.csv](disaster_categories.csv): contains a classification of the beforehand mentioned messages.
 * Two Jupyter Notebooks that were used as a support at creating process_data.py and train_classifier.py scripts:
