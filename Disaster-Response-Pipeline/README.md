@@ -6,8 +6,8 @@ The purpose of this project is to build a model for an API that classifies disas
 ## Attached files
 This repository contains the following files:
 * A copy of the original datasets:
-  ** [disaster_messages.csv](disaster_messages.csv): contains original messages sent during disasters. 
-  ** [disaster_categories.csv](disaster_categories.csv): contains a classification of the beforehand mentioned messages.
+  * [disaster_messages.csv](disaster_messages.csv): contains original messages sent during disasters. 
+  * [disaster_categories.csv](disaster_categories.csv): contains a classification of the beforehand mentioned messages.
 * A [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data-Science-Blog-Post/Singapore%20apartment%20resale%20prices%20analysis.ipynb), which contains the Python code that was used for this project. The code makes use of the following Python libraries: 
   * pandas
   * numpy
