@@ -1,6 +1,6 @@
 # Disaster Response Pipeline
 ## Project motivation
-The purpose of this project is to build a model for an API that classifies disaster messages. Those messages can be, for example, tweets sent during a natural disaster such as earthquakes or hurricanes. A machine learning pipeline will categorize these messages so that they can be sent to the appropriate disaster relief agency.
+The purpose of this project is to build a model for an API that classifies disaster messages. These messages can be, for example, news published in an online newspaper or tweets sent during a natural disaster such as earthquakes or hurricanes. A machine learning pipeline will categorize these messages so that they can be sent to the appropriate disaster relief agency.
 
 
 ## Attached files
