@@ -9,8 +9,8 @@ This repository contains the following files:
   * [disaster_messages.csv](disaster_messages.csv): contains original messages sent during disasters. 
   * [disaster_categories.csv](disaster_categories.csv): contains a classification of the beforehand mentioned messages.
 * Two Jupyter Notebooks that were used as a support at creating XXX:
-   * [ETL Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data-Science-Blog-Post/Singapore%20apartment%20resale%20prices%20analysis.ipynb): Used as support for the development of process_data.py.
-   * [ML Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data-Science-Blog-Post/Singapore%20apartment%20resale%20prices%20analysis.ipynb): Used as support for the development of train_classifier.py.
+   * [ETL Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/ETL%20Pipeline%20Preparation.ipynb): Used as support for the development of process_data.py.
+   * [ML Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/ML%20Pipeline%20Preparation.ipynb): Used as support for the development of train_classifier.py.
   * matplotlib
   * seaborn
   * scipy
