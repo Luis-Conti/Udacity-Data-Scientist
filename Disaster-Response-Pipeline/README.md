@@ -24,6 +24,18 @@ Summarizing:
 * Several features affect the price of the apartment: size, location, floor level, apartment type, apartment model and, to a lesser extent, lease commence date.
 * The multiple lineal model built in Python showed a very good performance and robustness at estimating the resale price of an apartment in Singapore given some characteristics.
 
+## Language detection limitation and alternatives
+
+The identification of the language of the different texts contained in the column "original" of the [disaster_messages.csv](disaster_messages.csv) dataset has been performed by means of the langdetect Python functionality.
+Unfortunately, the accuracy of langdetect at detecting is not very good for languages that are not among the most common in the world (English, Chinese, Spanish, etc.). As as 
+consequence, languages such as Haitian Creole is not properly identified. Actually, it is not even among the languages included in langdetect. See [langdetect documentation](https://pypi.org/project/langdetect/). It is important to point out that the results shown in the bar plots do not represent the actual languages included in the dataset, due to these langdetect limitations.
+
+There are a lot of alternatives. For example, using [googletrans](https://pypi.org/project/googletrans/). This Python library makes use of Google Translate API. It was confirmed that languages are properly detected (even less common languages like Haitian Creole). However, this function has a limitation in term of the number of request that are possible. When googletrans was implemented in this project in order to translate all the rows of the "original" column of the database that are not empty (over 10000), the following error was obtained: 'Translator' object has no attribute 'raise_Exception'. For a lower number of texts to be translated (or whose language is desired to be detected), googletrans is a good option.
+
+In order to have access to a higher number of translate/language detection requests, a suscription to [Google cloud services](https://cloud.google.com/translate/docs/reference/libraries/v3/python) would be the best option. As this is not a free service, and as translationa and language detection are not the main topics of this project, the use of Google Cloud Services for language detection will not be made.
+
+
+
 ## Licensing, Authors, Acknowledgements
 * Original datasets are provided by [Figure Eight (now Appen)](https://appen.com/figure-eight-is-now-appen/) to [Udacity](https://www.udacity.com).
 * The content of this post is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
