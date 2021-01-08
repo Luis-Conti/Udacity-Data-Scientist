@@ -10,13 +10,8 @@ The purpose of this analysis is to provide answers to the following business que
 ## Attached files
 This repository contains the following files:
 * A copy of the original dataset, named [SG_prices.csv](SG_prices.csv). 
-* A [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data-Science-Blog-Post/Singapore%20apartment%20resale%20prices%20analysis.ipynb), which contains the Python code that was used for this project. The code makes use of the following Python libraries: 
-  * pandas
-  * numpy
-  * matplotlib
-  * seaborn
-  * scipy
-  * sklearn
+* A [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data-Science-Blog-Post/Singapore%20apartment%20resale%20prices%20analysis.ipynb), which contains the Python code that was used for this project.
+
   
 ## Installation
 For the correct deployment of the different scripts, Python 3.x (ideally Python 3.6) shall be installed. Following libraries are also necesarry:
@@ -33,7 +28,7 @@ For the correct deployment of the different scripts, Python 3.x (ideally Python 
   * langdetect  
   
 ## Translate & Language detection limitations
-For more information about the limitations at translating and detecting languages of a given text using the feature langdetect please refer to this [.txt document] ().
+For more information about the limitations at translating and detecting languages of a given text using the feature langdetect please refer to this [txt document] ().
 
 
 
