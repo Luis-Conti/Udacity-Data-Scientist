@@ -28,6 +28,17 @@ This repository contains the following files:
   * Go to http://0.0.0.0:3001/. You will be redirected to the web app.
 3. In the web app, enter a disaster response message (in English language) and press "Classify message". The message will be classified in different categories depending on its content.
 
+## Web app overview
+You will be able to insert your message (in English language) in the search bar shown in the following picture:
+
+Besides the message classification feature, the web app offers interesting statistics about the dataset that was used to train the model:
+1. The percentage of messages corresponding to each genre (direct, news and social):
+
+
+2. A bar chat showing the number of messages sent by category:
+
+3. A bar chat showing, for the most common languages of the original messages, the number of messages for each genre:
+
 ## Conclusions
 Findings and conclusions from this analysis are presented in this [Medium post](https://luis-conti-gz.medium.com/singapore-apartment-resale-prices-analysis-1105770b3015). 
 Summarizing:
