@@ -39,6 +39,7 @@ Besides the message classification feature, the web app offers interesting stati
 
 3. A bar chat showing, for the most common languages of the original messages, the number of messages for each genre:
 ![alt text](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/Screenshots/Web%20App%20pic%204.PNG)
+
 ## Conclusions
 Findings and conclusions from this analysis are presented in this [Medium post](https://luis-conti-gz.medium.com/singapore-apartment-resale-prices-analysis-1105770b3015). 
 Summarizing:
