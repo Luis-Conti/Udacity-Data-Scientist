@@ -2,8 +2,6 @@
 ## Project motivation
 The purpose of this project is to build a model for an API that classifies disaster messages. These messages can be, for example, news published in an online newspaper or tweets sent during a natural disaster such as earthquakes or hurricanes. A machine learning pipeline will categorize these messages so that they can be sent to the appropriate disaster relief agency.
 
-## Web app overview
-
 ## Attached files
 This repository contains the following files:
 * Two datasets, in .csv format, provided by [Figure Eight (now Appen)](https://appen.com/figure-eight-is-now-appen/):
@@ -33,12 +31,13 @@ You will be able to insert your message (in English language) in the search bar 
 
 Besides the message classification feature, the web app offers interesting statistics about the dataset that was used to train the model:
 1. The percentage of messages corresponding to each genre (direct, news and social):
-
+[https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/Screenshots/Web%20App%20pic%202.PNG]
 
 2. A bar chat showing the number of messages sent by category:
+[https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/Screenshots/Web%20App%20pic%203.PNG]
 
 3. A bar chat showing, for the most common languages of the original messages, the number of messages for each genre:
-
+[https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/Screenshots/Web%20App%20pic%204.PNG]
 ## Conclusions
 Findings and conclusions from this analysis are presented in this [Medium post](https://luis-conti-gz.medium.com/singapore-apartment-resale-prices-analysis-1105770b3015). 
 Summarizing:
