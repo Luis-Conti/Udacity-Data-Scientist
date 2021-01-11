@@ -17,6 +17,16 @@ This repository contains the following files:
 * Two Jupyter Notebooks that were used as a support at creating process_data.py and train_classifier.py scripts:
   * [ETL Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/ETL%20Pipeline%20Preparation.ipynb): Used as support for the development of process_data.py.
   * [ML Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/ML%20Pipeline%20Preparation.ipynb): Used as support for the development of train_classifier.py.
+  
+## Instructions
+1. Go to the project's root directory. There:
+ 1.1 Run the ETL pipeline (XX). This will clear the input datasets, merge them and store the resulting dataset in a database.
+ 1.2 Run the ML pipeline (XX). This will create a model that will allow us classify disaster response messages. The model will be saved in a .pkl file.
+ 2. Go to the web app directory. There:
+  2.1 Install the langdetect package by executing the following command line: !pip install langdetect
+  2.2 Run the web app by executing the following command line: python run.py
+  2.3 Go to http://0.0.0.0:3001/. You will be redirected to the web app.
+ 3. In the web app, enter a disaster response message (in English language) and press "Classify message". The message will be classified in different categories depending on its content.
 
 ## Conclusions
 Findings and conclusions from this analysis are presented in this [Medium post](https://luis-conti-gz.medium.com/singapore-apartment-resale-prices-analysis-1105770b3015). 
