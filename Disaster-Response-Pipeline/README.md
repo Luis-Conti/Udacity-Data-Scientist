@@ -21,9 +21,9 @@ This repository contains the following files:
  * Run the ETL pipeline (XX). This will clear the input datasets, merge them and store the resulting dataset in a database.
  * Run the ML pipeline (XX). This will create a model that will allow us classify disaster response messages. The model will be saved in a .pkl file.
 2. Go to the web app directory. There:
- * Install the langdetect package by executing the following command line: !pip install langdetect
-  Run the web app by executing the following command line: python run.py
-  * Go to http://0.0.0.0:3001/. You will be redirected to the web app.
+ * Install the langdetect package by executing the following command line: ! pip install langdetect
+ * Run the web app by executing the following command line: python run.py
+ * Go to http://0.0.0.0:3001/. You will be redirected to the web app.
 3. In the web app, enter a disaster response message (in English language) and press "Classify message". The message will be classified in different categories depending on its content.
 
 ## Web app overview
