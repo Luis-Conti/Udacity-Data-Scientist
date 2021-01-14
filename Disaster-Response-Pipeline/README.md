@@ -14,7 +14,7 @@ This repository contains the following files:
   
 * Two Jupyter Notebooks that were used as a support at creating process_data.py and train_classifier.py scripts:
   * [ETL Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/ETL%20Pipeline%20Preparation.ipynb): Used as support for the development of process_data.py.
-  * [ML Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/ML%20Pipeline%20Preparation.ipynb): Used as support for the development of train_classifier.py.
+  * [ML Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/ML%20Pipeline%20Preparation.ipynb): Used as support for the development of train_classifier.py. In this Notebook, a grid search was performed with multiple combinations of up to 4 parameters in order to optimize the accuracy of the resulting pipeline. In order to save time when creating the Machine Model in the terminal, pipeline in train_classifier.py is already defined with these optimal parameters.
   
 ## Instructions to run the web app
 1. Go to the project's root directory. There:
