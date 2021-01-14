@@ -9,8 +9,8 @@ This repository contains the following files:
   * [disaster_categories.csv](disaster_categories.csv): contains a classification of the beforehand mentioned messages.
   
 * Two scripts, that are run in a terminal:
-  * [process_data.py](XXX): Reads the datasets, merges them and cleans the data  by means of an ETL Pipeline, and stores the resulting dataframe in a SQLite database.
-  * [train_classifier.py](XXX): Makes use of the SQLite database created by process_data.py to create and tune a Machine Learning Pipeline model. Additionally, this script evaluates the model and stored it as a pickle file.  
+  * [process_data.py](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/process_data.py): Reads the datasets, merges them and cleans the data  by means of an ETL Pipeline, and stores the resulting dataframe in a SQLite database.
+  * [train_classifier.py](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/train_classifier.py): Makes use of the SQLite database created by process_data.py to create and tune a Machine Learning Pipeline model. Additionally, this script evaluates the model and stored it as a pickle file.  
   
 * Two Jupyter Notebooks that were used as a support at creating process_data.py and train_classifier.py scripts:
   * [ETL Pipeline Preparation.ipynb](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/ETL%20Pipeline%20Preparation.ipynb): Used as support for the development of process_data.py.
