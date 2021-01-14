@@ -31,7 +31,7 @@ You will be able to insert your message (in English language) in the search bar 
 
 Besides the message classification feature, the web app offers interesting statistics about the dataset that was used to train the model:
 1. The percentage of messages corresponding to each genre (direct, news and social):
-![alt text](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/Screenshots/Web%20App%20pic%202.PNG)
+![alt text](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/Screenshots/Web%20App%20pic%202.png)
 
 
 2. A bar chat showing the number of messages sent by category:
