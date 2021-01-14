@@ -18,11 +18,11 @@ This repository contains the following files:
   
 ## Instructions to run the web app
 1. Go to the project's root directory. There:
- * Run the ETL pipeline (XX). This will clear the input datasets, merge them and store the resulting dataset in a database.
- * Run the ML pipeline (XX). This will create a model that will allow us classify disaster response messages. The model will be saved in a .pkl file.
+ * Run the ETL pipeline (process_data.py). This will clear the input datasets, merge them and store the resulting dataset in a database. In order to have the correct inputs, run the following piece of code: `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
+ * Run the ML pipeline (train_classifier.py). This will create a model that will allow us classify disaster response messages. The model will be saved in a .pkl file. In order to have the correct inputs, run the following piece of code: `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 2. Go to the web app directory. There:
  * Install the langdetect package by executing the following command line: ! pip install langdetect
- * Run the web app by executing the following command line: python run.py
+ * Run the web app by executing the following command line: `python run.py`
  * Go to http://0.0.0.0:3001/. You will be redirected to the web app.
 3. In the web app, enter a disaster response message (in English language) and press "Classify message". The message will be classified in different categories depending on its content.
 
@@ -46,12 +46,6 @@ Besides the message classification feature, the web app offers interesting stati
 3. A bar chat showing, for the most common languages of the original messages, the number of messages for each genre:
 ![alt text](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/Screenshots/Web%20App%20pic%204.png)
 
-## Conclusions
-Findings and conclusions from this analysis are presented in this [Medium post](https://luis-conti-gz.medium.com/singapore-apartment-resale-prices-analysis-1105770b3015). 
-Summarizing:
-* Singapore Central Area has the highest apartment resale prices per square meter.
-* Several features affect the price of the apartment: size, location, floor level, apartment type, apartment model and, to a lesser extent, lease commence date.
-* The multiple lineal model built in Python showed a very good performance and robustness at estimating the resale price of an apartment in Singapore given some characteristics.
 
 ## Language detection limitation and alternatives
 
