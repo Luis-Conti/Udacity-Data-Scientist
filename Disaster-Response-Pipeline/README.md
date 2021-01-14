@@ -23,7 +23,7 @@ This repository contains the following files:
 2. Go to the web app directory. There:
  * Install the langdetect package by executing the following command line: ! pip install langdetect
  * Run the web app by executing the following command line: `python run.py`
- * Go to http://0.0.0.0:3001/ (alternatively, if you have problems, try with http://localhost:3001 in a browser)). You will be redirected to the web app.
+ * Go to http://0.0.0.0:3001/ (alternatively, if you have problems, try with http://localhost:3001 in a browser). You will be redirected to the web app.
 3. In the web app, enter a disaster response message (in English language) and press "Classify message". The message will be classified in different categories depending on its content.
 
 ## Web app overview
