@@ -29,6 +29,12 @@ This repository contains the following files:
 ## Web app overview
 You will be able to insert your message (in English language) in the search bar shown in the following picture:
 
+![alt text](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/Screenshots/Web%20App%20search%20bar.PNG)
+
+Once the text is entered, and after clicking "Classify Message", a list of all categories will appear. Those categories related to the entered text will be highlighted in green, as shown in the picture below:
+
+![alt text](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/Screenshots/Web%20App%20pic%201.png)
+
 Besides the message classification feature, the web app offers interesting statistics about the dataset that was used to train the model:
 1. The percentage of messages corresponding to each genre (direct, news and social):
 ![alt text](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline/Screenshots/Web%20App%20pic%202.png)
