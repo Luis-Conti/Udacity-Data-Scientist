@@ -19,8 +19,8 @@ This repository contains the following files:
   
 ## Instructions to run the web app
 1. Go to the project's root directory. There:
- * Run the ETL pipeline (process_data.py). This will clear the input datasets, merge them and store the resulting dataset in a database. In order to have the correct inputs, run the following piece of code: `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
- * Run the ML pipeline (train_classifier.py). This will create a model that will allow us classify disaster response messages. The model will be saved in a .pkl file. In order to have the correct inputs, run the following piece of code: `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
+ * Run the ETL pipeline (process_data.py). This will clear the input datasets, merge them and store the resulting dataset in a database. In order to have the correct inputs, run the following piece of code: `python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db`
+ * Run the ML pipeline (train_classifier.py). This will create a model that will allow us classify disaster response messages. The model will be saved in a .pkl file. In order to have the correct inputs, run the following piece of code: `python train_classifier.py DisasterResponse.db classifier.pkl`
 2. Go to the web app directory. There:
  * Install the langdetect package by executing the following command line: `! pip install langdetect`
  * Run the web app by executing the following command line: `python run.py`
