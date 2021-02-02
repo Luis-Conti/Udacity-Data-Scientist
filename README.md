@@ -6,4 +6,4 @@ In this project, the resale prices of apartments in the city-state of Singapore 
 This portfolio includes a combination of ETL and ML Pipelies for the categorization of messages (texts). Results are shown in a web app.
 Files that were used for such purpose, as well as the instructions to run the web app, can be found in this [repository](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Disaster-Response-Pipeline).
 ## 3. Recommendation Engines with IBM
-Interactions between user and articles on IBM Watson Studion platform have been analyzed. Based on this analysis, different recommendation engines have been developed in order to provide users recommendations on articles they will likely be interested in.
+Interactions between user and articles on IBM Watson Studion platform have been analyzed. Based on this analysis, different recommendation engines have been developed in order to provide users recommendations on articles they will likely be interested in. Code and further details are available in this [repository](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Recommendation-Engines-IBM).
