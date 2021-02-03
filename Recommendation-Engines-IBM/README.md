@@ -10,7 +10,7 @@ The aim of this project is to develop different recommendation engines to provid
 ## Attached files
 This repository contains the following files:
 * A [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Recommendation-Engines-IBM/Recommendations_with_IBM.ipynb), which contains the Python code that was used for this project.
-* A [.html file](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Recommendation-Engines-IBM/Recommendations_with_IBM.ipynb), which contains the Python code that was used for this project.
+* A [.html file](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Recommendation-Engines-IBM/Recommendations_with_IBM.html), which contains the Python code that was used for this project.
 
   
 ## Installation
