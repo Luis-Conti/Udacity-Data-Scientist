@@ -39,5 +39,5 @@ Following conclusion can be drawn from the project:
 * Thanks to a matrix factorization method called SVD (Single Value Decomposition), it was possible to create a model to provide recommendations. Accuracy of the model is satisfactory, but the impact of the number of latent factors in the accuracy is almost negligable.
 
 ## Licensing, Authors, Acknowledgements
-* [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio).
+* The datasets that were used during this project correspond to real data that were kindly provided by [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio).
 * The content of this post is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
