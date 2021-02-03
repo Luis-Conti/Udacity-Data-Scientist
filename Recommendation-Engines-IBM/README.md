@@ -1,7 +1,7 @@
 
 # Recommendation Engines IBM
 ## Project motivation
-The aim of this project is to develop different recommendation engines to provide users different articles they may have interest in. A real case study has been developed, using data from IBM. Different solutions have been discussed:
+The aim of this project is to develop different recommendation engines to provide users different articles they may have interest in. A real case study has been developed, using data from [IBM Watson](https://dataplatform.cloud.ibm.com/home?context=wdp). Different solutions have been discussed:
 
 * Rank-based recommendations
 * Content-based recommendations
@@ -39,5 +39,5 @@ Following conclusion can be drawn from the project:
 * Thanks to a matrix factorization method called SVD (Single Value Decomposition), it was possible to create a model to provide recommendations. Accuracy of the model is satisfactory, but the impact of the number of latent factors in the accuracy is almost negligable.
 
 ## Licensing, Authors, Acknowledgements
-* The origina dataset was downloaded from the [Singaporean Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee).
+* [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio).
 * The content of this post is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
