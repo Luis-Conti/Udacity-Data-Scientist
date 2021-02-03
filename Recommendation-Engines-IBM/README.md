@@ -27,6 +27,8 @@ The following Python libraries were used for the development of this project:
  A recommendation engine based entirely on the popularity of the articles available on the IBM platform is developed to provide users recommendation on new articles.
  ### III. User-User Based Collaborative Filtering
  In this section, two different versions of collaborative filtering recommendation engines are developed. They try to identify similar users among the datasets to recommend users new articles that they have not yet interacted with.
+ #### IV. Content-based recommendation
+ This section was not developed. This can be considered a future improvement of this set of recommendation engines. For this purpose, NLP (Natural Language Processing) algorithms can be very useful.
  ### V. Matrix Factorization.
  Matrix decomposition will be applied with the goal of building a model that predicts suitable recommendation to users, with different number of latent factors.
  
