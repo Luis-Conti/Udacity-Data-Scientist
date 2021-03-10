@@ -4,7 +4,7 @@ The aim of this portfolio is to develop and discuss methodologies and algorithms
 
 Two different approach will be discussed and compared:
 
-* Polynomial regression
+* Polynomial regression, degree 2 and 3
 * Neural networks
 
 Data from the model have been obtained from the [NASA website](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/).
