@@ -33,6 +33,6 @@ Project depelopment process and conclusions are available in this [Medium post](
 
 ## Licensing, Authors, Acknowledgements
 * [Análisis de metodologías para la identificación de la degradación en turbinas de gas. Aplicación en el motor Rolls-Royce RB211](http://bibing.us.es/proyectos/abreproy/60315/fichero/Memoria_Proyecto.pdf). Conti González, Luis Manuel. Universidad de Sevilla. 2015.
-* "Run_to_Failure_Simulation_Under_Real_Flight_Conditions_Dataset". Chao, Manuel A.; Kulkarni, Chetan; Goebel, Kai. 2020. 
+* "Run_to_Failure_Simulation_Under_Real_Flight_Conditions_Dataset". Chao, Manuel A.; Kulkarni, Chetan; Goebel, Kai; Fink, Olga. 2020. 
 * Datasets are available in the [Data repository of the NASA website](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/).
 * The content of this post is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
