@@ -20,27 +20,19 @@ For the correct deployment of the different scripts, Python 3.x (ideally Python 
   * pandas
   * numpy
   * matplotlib
-  * sqlite3
   * sklearn
-  * SQLalchemy
-  * json
-  * flask
-  * sys 
-  * pickle
-  * langdetect  
-  
-## Translate & Language detection limitations
-For more information about the limitations at translating and detecting languages of a given text using the feature langdetect please refer to this [txt document] ().
+  * seaborn
+  * os
+  * h5py
+  * keras
 
 
+## Blog post
+Project depelopment process and conclusions are available in this [Medium post](https://luis-conti-gz.medium.com/XXXX). 
 
-## Conclusions
-Findings and conclusions from this analysis are presented in this [Medium post](https://luis-conti-gz.medium.com/singapore-apartment-resale-prices-analysis-1105770b3015). 
-Summarizing:
-* Singapore Central Area has the highest apartment resale prices per square meter.
-* Several features affect the price of the apartment: size, location, floor level, apartment type, apartment model and, to a lesser extent, lease commence date.
-* The multiple lineal model built in Python showed a very good performance and robustness at estimating the resale price of an apartment in Singapore given some characteristics.
 
 ## Licensing, Authors, Acknowledgements
-* The origina dataset was downloaded from the [Singaporean Government website](https://data.gov.sg/dataset/resale-flat-prices?resource_id=42ff9cfe-abe5-4b54-beda-c88f9bb438ee).
+* [Análisis de metodologías para la identificación de la degradación en turbinas de gas. Aplicación en el motor Rolls-Royce RB211](http://bibing.us.es/proyectos/abreproy/60315/fichero/Memoria_Proyecto.pdf). Luis Manuel Conti González, Universidad de Sevilla. 2015.
+* "Run_to_Failure_Simulation_Under_Real_Flight_Conditions_Dataset". Chao, Manuel A.; Kulkarni, Chetan; Goebel, Kai. 2020. 
+* Datasets are available in the [Data repository of the NASA website](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/).
 * The content of this post is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
