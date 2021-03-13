@@ -32,7 +32,7 @@ For the correct deployment of the different scripts, Python 3.x (ideally Python 
 
 
 ## Blog post
-Project depelopment process and conclusions are available in this [Medium post](https://luis-conti-gz.medium.com/XXXX). 
+Project depelopment process and conclusions are available in this [Medium post](https://luis-conti-gz.medium.com/machine-learning-models-applied-to-turbofan-engines-predictive-maintenance-c7e8d678390b). 
 
 
 ## Licensing, Authors, Acknowledgements
