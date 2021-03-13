@@ -11,7 +11,6 @@ Data from the model have been obtained from the [NASA website](https://ti.arc.na
 
 ## Attached files
 This repository contains the following files:
-* A copy of the original dataset, named [SG_prices.csv](SG_prices.csv). 
 * A [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Turbofan-Predictive-Maintenance/Turbofan%20health%20monitoring%20and%20predictive%20maintenance.ipynb), which contains the Python code that was used for this project.
 
   
@@ -25,6 +24,11 @@ For the correct deployment of the different scripts, Python 3.x (ideally Python 
   * os
   * h5py
   * keras
+
+## Instructions
+1- Download the dataset to your working environment from this [link](https://mega.nz/folder/1F5zySrR#CIQGD4VjC2IY9ZRJF_c3pg)
+2- Download the [Jupyter Notebook](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Turbofan-Predictive-Maintenance/Turbofan%20health%20monitoring%20and%20predictive%20maintenance.ipynb) to your working folder.
+3- Execute all command lines of the Jupyter Notebook. It might take a couple of hours to execute all the code lines.
 
 
 ## Blog post
