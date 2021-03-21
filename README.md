@@ -10,4 +10,4 @@ Interactions between user and articles on IBM Watson Studion platform have been 
 ## 4. Turbofan Health Monitoring and Predictive Maintenance
 This is the capstone project of this Data Scientist Nanodegree. Machine learning models are created to carry out predictive maintenance on turbofan engines based on sensor measurements. Please find more information in this [repository](https://github.com/Luis-Conti/Udacity-Data-Scientist/tree/main/Turbofan-Predictive-Maintenance).
 ## 5. Udacity Data Scientist Nanodegree Certificate
-![Certificate](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data%20Scientist%20Certificate.pdf)
+[Data Scientist Certificate.pdf](https://github.com/Luis-Conti/Udacity-Data-Scientist/files/6177523/Data.Scientist.Certificate.pdf)
