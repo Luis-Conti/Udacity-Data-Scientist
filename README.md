@@ -9,5 +9,5 @@ Files that were used for such purpose, as well as the instructions to run the we
 Interactions between user and articles on IBM Watson Studion platform have been analyzed. Based on this analysis, different recommendation engines have been developed in order to provide users recommendations on articles they will likely be interested in. Code and further details are available in this [repository](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Recommendation-Engines-IBM).
 ## 4. Turbofan Health Monitoring and Predictive Maintenance
 This is the capstone project of this Data Scientist Nanodegree. Machine learning models are created to carry out predictive maintenance on turbofan engines based on sensor measurements. Please find more information in this [repository](https://github.com/Luis-Conti/Udacity-Data-Scientist/tree/main/Turbofan-Predictive-Maintenance).
-## 5. Udacity Data Scientist Nanodegree certificate
-![alt text](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data%20Scientist%20Certificate.png)
+## 5. Udacity Data Scientist Nanodegree Certificate
+![alt text](https://github.com/Luis-Conti/Udacity-Data-Scientist/blob/main/Data%20Scientist%20Certificate.pdf)
